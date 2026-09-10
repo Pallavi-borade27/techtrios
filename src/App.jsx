@@ -889,6 +889,16 @@ Thank you.`
   </div>
 </footer>
 
+<a
+  href="https://wa.me/918554910802?text=Hi%20TechTrios,%20I%20want%20to%20discuss%20a%20new%20app%20project."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="whatsapp-float"
+  aria-label="Chat with TechTrios on WhatsApp"
+>
+  <span>💬</span>
+</a>
+
     </div>
   )
 }
