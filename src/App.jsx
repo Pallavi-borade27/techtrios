@@ -449,6 +449,64 @@ function App() {
     </div>
 
   </div>
+  {/* SHIVAM ENTERPRISES WEB APP */}
+<div className="portfolio-grid" style={{ marginTop: "40px" }}>
+  <div className="portfolio-card">
+
+    <div className="portfolio-visual">
+      <div className="phone-mockup">
+
+        <div className="phone-screen">
+          <div className="app-top">
+            <strong>Shivam Enterprises</strong>
+            <span>WEB APPLICATION</span>
+          </div>
+
+          <div className="app-content">
+            <h3>Billing & Quotation</h3>
+
+            <div className="app-features">
+              <span>Billing</span>
+              <span>Quotation</span>
+              <span>Customers</span>
+              <span>Reports</span>
+            </div>
+
+            <div className="app-bottom">
+              <small>Web Based</small>
+              <small>Access from anywhere</small>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div className="portfolio-content">
+      <div className="project-tag">WEB APPLICATION</div>
+
+      <h3>Shivam Enterprises</h3>
+
+      <p>
+        Billing &amp; Quotation Web App
+      </p>
+
+      <p>
+        A professional web application designed to simplify billing,
+        quotation creation, customer management and business operations
+        through one easy-to-use platform.
+      </p>
+
+      <div className="project-features">
+        <span>Billing</span>
+        <span>Quotations</span>
+        <span>Customer Management</span>
+        <span>Reports</span>
+      </div>
+    </div>
+
+  </div>
+</div>
 </section>
 <section className="faq" id="faq">
   <div className="section-heading">
